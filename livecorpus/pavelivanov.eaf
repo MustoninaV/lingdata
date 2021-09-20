@@ -1,0 +1,724 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-09-20T22:49:10+03:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/vasilisa/Desktop/ELAN/pavelivanov.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./pavelivanov.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:603f9dd4-cedf-4cd6-bd16-bf4662143991</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">95</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="4390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="4390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="4940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="4940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="11960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="11960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="12290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="19960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="19970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="21850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="22630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="22640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="22640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="28520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="28580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="31000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="31540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="36060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="36120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="49540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="49540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="57080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="57090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="63590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="63640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="67800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="67850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="79130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="81940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="89550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="89580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="102320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="103930"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="114760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="115390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="121560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="121640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="132950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="132970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="143930"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="144000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="144000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="146180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="153670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="154650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="161940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="161990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="172980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="172980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="194310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="194320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="211920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="211990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="216790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="216810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="216810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="218590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="224140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="224140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="241030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="241200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="246020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="246020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="252880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="252940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="257280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="257320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="263900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="263990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="270670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="271380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="275660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="275670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="282510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="282510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="287430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="288100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="290690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="290700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="302910"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="MustoninaV" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@pi1963m" TIER_ID="text@pi1963m">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>когда посчитаешь / на несколько урожаев, то выгодно//</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>такая сеялка сегодня на... на доллар приблизительно стоит где-то/ около сто тысяч доллоров//</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a86"
+                TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>только сеялка</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>а с трактором приблизительно стоииит /э / двести с лишком тысяч доллоров//</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>у нас таких машин для нашей  /э/ для нашего посева три//</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>да, / мы никогда не должны рассчитывать / на один год, / на один урожай//</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>мы всё время должны рассчитавать / на средний и долгий строк//</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>я рассчитываю, что средний с.../ э/ срок / - пять лет, а с... /а/ долгий срок, скажем, /э/ длинный строк-это двадцать лет//</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>да/ это всё сегодня возможно после того, как весь этот процесс он уже получился / в  / семидесятых, восьмидесятых годах//</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>когда нужно было пахать, когда нужно было калкарио сыпать, когда нужно было все удобрения вплодать//</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>всё это / зараньше, когда приготовишь и землю / удобришь, / теперь / эта технология-она всё это заменяет//</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts43">
+                <ANNOTATION_VALUE>не нужно пахать, ничего не нужно делать // всё это  /а/  агрономия достигла сегодня, / называться / агрикультура дэ парсизон, / как сказать//</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts44" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>по сателлиту, / по са..., по сателлиту всё это делаться, / и мы всё сыпим столь, сколь надо и где сколь надо//</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>я сюда приехал, я был маленький ещё, мне девять лет было, когда я сюда приехал, это было в начале сем... семидесятых годов//</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>в то время / земля здесь ничего не стоила / и никому не была нужна, потому что она ничего не урождала//</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>она была земля непригодная/ мой отец купил здесь /  фазенду, землю, / и мой брат решил привезти агронома, / а / взять / землю здесь, увезти туда, в лабораторий, проверить, что нужно было для этой земли, чтобы можно было / сеять сою//</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>он когда сделал анализ, проверил и сказал:  Иван, / я тебе скажу так, что / земля,которую ты купил в Гоясе, / которую твой отец купил в Гоясе- она непригодна / для посеву//</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts57">
+                <ANNOTATION_VALUE>а Иван ему сказал, говорит: Волмир, / ты /  ночью родился-ты ничего не знаешь!/</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts58" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>ты посмортишь, что через десять лет / земля будет стоить столь же, сколь здесь, или дороже//</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>заняло побольше, заняло двадцать лет / но через двадцать лет / после этого /земля здесь стала столь же урождать, сколь там / или больше/ и  сегодня здесь земля стоит вполовину дороже, / чем в Паране//</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>а сорок лет тому назад здесь земля / копейки стоила, а сегодня она стоит золота//</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
+                TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>сегодня здесь гектар земли стоит в окрестности двадцать тысяч доллоров//</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
+                TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>на первом месте я считаю так, что в русской пословице говорится, что хорошо там, где нас нету//</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33"
+                TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>а я думаю, что мы должны думать немножко по-иначе: хорошо там, / где мы есть//</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34"
+                TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>и это хорошо или плохо, я считаю, что оно зависит от нас//</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
+                TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>если мы сделаем, что будет хорошо-оно будет хорошо, а если будем делать, что будет плохо- оно тоже будет плохо//</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36"
+                TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>нам самим от себя никуда не убежать и никуда не спрятаться//</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37"
+                TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts82">
+                <ANNOTATION_VALUE>покамест нет / в будущем-неизвестно / но на сегодняшний момент у меня здесь занятий, можно сказать, что хватает//</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="MustoninaV" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@avp1947m" TIER_ID="text@avp1974m">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a78"
+                TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>а, /я понял, то есть когда на...на длинный срок -это выгодней получаеся// а сколько стоит вот такой комбайн, например, вот с сеялкой?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts13">
+                <ANNOTATION_VALUE>это только вот эта сеялка// а ещё сам трактор//</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>и сколько у вас таких машин?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>то есть это вот вы достаточно зарабатываете своим трудом, чтобы покупать вот это/ это /эти трактора, эти кобайны, нанимать людей и даже позволять себе некоторые неурожайные года?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>вот минимум этот длинный срок-это сколько? десять, пятнадцать лет?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>я правильно понимаю, что это / та самая / новая технология, вот этот прямой посев, /которая исключает пашню?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>то есть, я с детства помню, что землю пашут, /то есть едет машина с плугом-пашет, / и потом туда уже идёт засев/ а сейчас эта это стадия исключена//</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts45">
+                <ANNOTATION_VALUE>точное сельское хозяйство//</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts56" TIME_SLOT_REF2="ts59">
+                <ANNOTATION_VALUE>ночью родился/ смеётся//</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38"
+                TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>ого! / и...,и в несколько раз дороже, чем она стоила здесь сорок лет назад?//</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39"
+                TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE>и в этом смысле переезды смысла не имеют?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="MustoninaV" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="translation" PARENT_REF="text@avp1974m"
+        PARTICIPANT="@avp1974" TIER_ID="transl@avp1974m">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a80" ANNOTATION_REF="a78">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a42" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE> I understand, that is, when for a long time -it is more profitable to get// and how much does such a combine harvester cost, for example, with a seeder?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a44" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>this is just this seeder// and also the tractor itself//</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a45" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>and how many of these machines do you have?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a46" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>that is, you earn enough with your work to buy this, these tractors, these combines, hire people and even allow yourself some lean years?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a47" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>here is the minimum of this long period - how much is it? ten, fifteen years?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a48" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>do I understand correctly that this is the new technology, this direct sowing, which excludes arable land?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a49" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>that is, I remember from childhood that the land is plowed, that is, a machine with a plow goes-it plows, and then there is already sowing/ and now this this stage is excluded//</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a50" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>precision agriculture//</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a67" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>born at night/ laughs//</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a68" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE>wow! / and...and several times more expensive than it cost here forty years ago?//</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a40" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>and in this sense, moving does not make sense?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="MustoninaV" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="translation" PARENT_REF="text@pi1963m"
+        PARTICIPANT="@pi1963m" TIER_ID="transl@pi1963m">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a41" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>when you count for several harvests, it is profitable//</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a43" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a51" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>such a seeder today costs about a dollar somewhere/ about a hundred thousand dollars//</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a87" ANNOTATION_REF="a86">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a52" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>and with a tractor, it costs about two hundred and more thousand dollars//</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a53" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>we have three such machines for our/ er / for our sowing//</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a54" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>yes, we should never count on one year, on one harvest//</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a55" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>we must always count on the medium and long term//</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a56" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>I expect that the average/ er / term is five years, and/ a / long term, say, /er/ long term is twenty years//</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a57" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>yes/ all this is possible today after the whole process has already turned out in the seventies, eighties//</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a58" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>when it was necessary to plow, when it was necessary to pour calcario, when it was necessary to plant all the fertilizers//</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a59" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>all this is earlier, when you prepare and fertilize the land, now this technology-it replaces all this//</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a60" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>no need to plow, no need to do anything // all this / a / agronomy has reached today, it is called agriculture de parsizon, how to say/</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a61" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>on the satellite, on the sa..., on the satellite, all this is done, and we all pour as much as necessary and where as necessary//</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a62" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>I came here, I was still young, I was nine years old when I came here, it was in the early seventies//</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a63" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>at that time, the land here was worth nothing and was not needed by anyone, because it did not wait for anything//</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a64" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>it was unsuitable land/ my father bought a fazenda, land here, and my brother decided to bring an agronomist, take the land here, take it there, to the laboratories, check what was needed for this land so that it could be sown with soybeans//</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a65" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>when he made an analysis, he checked it and said: Ivan, I will tell you this: the land that you bought in Goyas, which your father bought in Goyas, is unsuitable for sowing//</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a66" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>and Ivan said to him: Volmir, you were born at night-you don't know anything!/</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a69" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>you will see that in ten years the land will be worth as much as here, or more expensive//</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a70" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>it took more, it took twenty years / but twenty years after that, the land here began to wait as much as there or more/ and today the land here is half as expensive as in Parana//</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a71" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>and forty years ago, the land here was worth a penny, and today it is worth gold//</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a72" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>in the first place, I think that the Russian proverb says that it is good where we are not there//</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a73" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>and I think that we should think a little differently: it's good where we are//</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a74" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>and this is good or bad, I believe that it depends on us//</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a75" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>if we do what will be good,it will be good, and if we do what will be bad, it will also be bad//</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a76" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE>we can't run away from ourselves and we can't hide anywhere//</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a77" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>there are no classes yet / in the future-it is unknown / but at the moment I have enough classes here, we can say that there are enough//</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="MustoninaV" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="phonetic_transcription"
+        PARENT_REF="text@avp1974m" PARTICIPANT="@avp1974m" TIER_ID="spokencorpora@avp1974m">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a81" ANNOTATION_REF="a78">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a82" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>А-а / я понял, то есть когда на= ‖ на длинный срок- это выгодней получа̱ется/. А сколько стоит вот такой комба̱йн, например, во-от ··( 0, 2)с сеялкой?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a88" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>Это только вот это сеял[ка.··( 019) А ещё ]сам трактор?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a91" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>И сколько у вас таких машин?/</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a93" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>То есть это вот вы достаточно зарабатываете-э ·· (0, 15) своим трудом, чтобы-ы покупать вот это =‖ это-о =‖ эти трактора, эти комбайны, нанимать людей ··( 0,45) и даже позволять себе некоторые неурожайные года?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="MustoninaV" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="phonetic_transcription"
+        PARENT_REF="text@pi1963m" PARTICIPANT="@pi1963m" TIER_ID="spokencorpora@pi1963m">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a79" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>Когда пошита̱шь/ ···( 0, 97) на не-есколько / урожаев, то выгодно.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a84" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a85" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>Такая се̱ялка сёдне-е на-а=‖ на доллар приблизительно стоит где-то-о ··· ( 0,97) около сто̱ тысяч доллоров.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a89" ANNOTATION_REF="a86">
+                <ANNOTATION_VALUE>[только сеялка]</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a90" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>А с тракторм-м / ·(0, 1) приблизительно стои-ит ··( 0, 29)  э-э двести с лишко̱м тысяч доллоров.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a92" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>У нас таких маши-ин \для наше-эй·· (0, 2) для нашего \посева три\.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a94" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>Да, \ ··(0, 19) \мы никогда не должы-ы рашитывать·· (0,32) на один год, ··( 0,37) \на один урожай\:</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a95" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>Мы всё \время / ·· ( 0,21) дожны рашитывать·· ( 0,34) на · (0,1) средняй ··(0, 21) и ··( 0, 3) долгай строк.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a83" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="words" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="phonetic_transcription" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="gestures" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        CONTROLLED_VOCABULARY_REF="Gesture phases"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_phases" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_meaning" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        CONTROLLED_VOCABULARY_REF="POS" GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="part of speech" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation" TIME_ALIGNABLE="false"/>
+    <LOCALE COUNTRY_CODE="RU" LANGUAGE_CODE="ru"/>
+    <LOCALE LANGUAGE_CODE="en" VARIANT="ASCII"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001"
+        LANG_ID="und" LANG_LABEL="undetermined (und)"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="POS">
+        <DESCRIPTION LANG_REF="und">Part of Speech</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_a79ed434-cc4b-488f-bc43-89917818866e">
+            <CVE_VALUE DESCRIPTION="noun" LANG_REF="und">n</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_caf0cf42-173d-4669-a1c2-7fad57e4127b">
+            <CVE_VALUE DESCRIPTION="verb" LANG_REF="und">v</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_948d70ae-5366-4812-aa9a-a5a620ff4b78">
+            <CVE_VALUE DESCRIPTION="interjection" LANG_REF="und">int</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_af8c3c77-d13f-4df5-9e4e-e94b5c3d0fe1">
+            <CVE_VALUE DESCRIPTION="adjective" LANG_REF="und">adj</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_c4a36aa0-f5fc-4407-a8c1-0d5e82e6387a">
+            <CVE_VALUE DESCRIPTION="pronoun" LANG_REF="und">pro</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_517c149b-f7f8-45ad-9bac-179245f68740">
+            <CVE_VALUE DESCRIPTION="determiner" LANG_REF="und">det</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_e02b967f-9b3a-49de-8947-137f0120d575">
+            <CVE_VALUE DESCRIPTION="article" LANG_REF="und">art</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_1c89137f-b432-4fba-92f9-dc25638132f6">
+            <CVE_VALUE DESCRIPTION="preposition" LANG_REF="und">prep</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_8842306b-09aa-4a1a-9231-8aba8c440073">
+            <CVE_VALUE DESCRIPTION="adverb" LANG_REF="und">adv</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_e12369d6-350c-4a62-a6bd-885fc007866f">
+            <CVE_VALUE DESCRIPTION="conj" LANG_REF="und">con</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_3f37ae18-431c-4492-bda2-9d0404c64143">
+            <CVE_VALUE DESCRIPTION="demonstrative pronoun" LANG_REF="und">dem</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_e744b7c6-be8a-4582-91a6-0e7f3a481736">
+            <CVE_VALUE DESCRIPTION="post" LANG_REF="und">post</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_b01d4de4-7507-4198-b2cb-37527365e791">
+            <CVE_VALUE DESCRIPTION="particle" LANG_REF="und">part</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Gesture phases">
+        <DESCRIPTION LANG_REF="und">Gesture phases</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_ac377e89-61d3-409b-8aeb-833eccaf957d">
+            <CVE_VALUE DESCRIPTION="preparation" LANG_REF="und">preparation</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_ef5655ea-f976-46f5-a505-5200abcc1659">
+            <CVE_VALUE DESCRIPTION="stroke" LANG_REF="und">stroke</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_157af6b3-7921-4fb7-badd-24454e53b688">
+            <CVE_VALUE DESCRIPTION="hold" LANG_REF="und">hold</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_f28af48d-99df-4e3e-85d1-203adb5c3f46">
+            <CVE_VALUE DESCRIPTION="partial retraction" LANG_REF="und">part.retraction</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+</ANNOTATION_DOCUMENT>
